@@ -47,14 +47,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MinhNgoc-Ngnm/rn-core-component.git"
+    "url": "git+https://github.com/MinhNgoc-Ngnm/core-component-rn.git"
   },
   "author": "Minh Ngọc <ngnm1009@gmail.com> (https://github.com/MinhNgoc-Ngnm)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MinhNgoc-Ngnm/rn-core-component/issues"
+    "url": "https://github.com/MinhNgoc-Ngnm/core-component-rn/issues"
   },
-  "homepage": "https://github.com/MinhNgoc-Ngnm/rn-core-component#readme",
+  "homepage": "https://github.com/MinhNgoc-Ngnm/core-component-rn#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
