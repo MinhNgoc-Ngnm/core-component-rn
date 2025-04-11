@@ -5,20 +5,25 @@ component
 ## Installation
 
 ```sh
-npm install rn-core-component
+npm install rn-core-component react-native-reanimated react-native-safe-area-context react-native-vector-icons
 ```
 
-## Usage
+1. Open `ios/Info.plist` and add the following:
 
-
-```js
-import { multiply } from 'rn-core-component';
-
-// ...
-
-const result = multiply(3, 7);
+```xml
+    <key>UIAppFonts</key>
+    <array>
+      <string>MaterialCommunityIcons.ttf</string>
+    </array>
 ```
 
+2. Run `pod install` in the ios directory
+
+```sh
+cd ios && pod install
+```
+
+3. Rebuild your app
 
 ## Contributing
 
