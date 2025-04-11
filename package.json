@@ -1,6 +1,6 @@
 {
   "name": "core-component-rn",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "component",
   "source": "./src/index.tsx",
   "main": "./lib/module/index.js",
